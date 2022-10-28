@@ -1,4 +1,4 @@
-# <a href = "https://carloscunha611.github.io/presentationcard/" target = 'blank'> <img src = "./images/favicon.png"></a> Cartão de apresentação
+# <a href = "https://carloscunha611.github.io/presentationCard/" target = 'blank'> <img src = "./images/favicon.png"></a> Cartão de apresentação
 
 ![preview](./.github/preview.png)
 
